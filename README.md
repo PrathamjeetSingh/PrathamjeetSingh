@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)]
+![MasterHead](https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)
 <h1 align="center">Hi 👋, I'm Prathamjeet Singh</h1>
 <h3 align="center">A frontend developer from India</h3>
 <img align="right" width="350" src="https://github.com/PrathamjeetSingh/PrathamjeetSingh/blob/main/octocat-1690193372395.png">
