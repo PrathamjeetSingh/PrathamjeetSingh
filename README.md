@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamjeetsingh&label=Profile%20views&color=0e75b6&style=flat" alt="prathamjeetsingh" /> </p>
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!Al19lB_AiM9QzRsTUmSa5IcBxMo2?e=A2NBQ0](https://1drv.ms/b/s!Al19lB_AiM9QzRsTUmSa5IcBxMo2?e=A2NBQ0)
+- 📄 Know about my experiences [https://1drv.ms/b/s!Al19lB_AiM9QzR3hAwSU_Y05cfie?e=EcxDFH](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
